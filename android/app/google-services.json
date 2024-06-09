@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535312670815",
+    "project_id": "todoapps-4518e",
+    "storage_bucket": "todoapps-4518e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535312670815:android:add63d6c61336d5d2dbbea",
+        "android_client_info": {
+          "package_name": "com.example.crudoperation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH7v-IZ7W7TL9oBZEw4fVNaxQWi2ZmOZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
